@@ -1,2 +1,2 @@
 # Agronomic-decision-support-system
-Advance climate action using Big Data and AI
+Advance climate action using Data Science and AI
